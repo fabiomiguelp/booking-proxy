@@ -1,0 +1,12 @@
+.env
+./app/.env
+./app/.env.local
+./app/.env.development.local
+
+
+# Logs
+logs
+*.log
+./app/storage/logs
+npm-debug.log*
+yarn-debug.log*
