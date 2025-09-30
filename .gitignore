@@ -10,3 +10,9 @@ logs
 ./app/storage/logs
 npm-debug.log*
 yarn-debug.log*
+./dbdata
+# Database data
+dbdata/
+docker/dbdata/
+*.sqlite
+*.sqlite3
